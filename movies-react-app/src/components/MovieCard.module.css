@@ -1,0 +1,25 @@
+.movieCard {
+    list-style: none;
+    font-size: 1.5rem;
+}
+
+.movieCard:hover,
+.movieCard:hover label {
+    opacity: 0.8;
+    color: rgb(238, 177, 63);
+}
+
+.movieImage {
+    border-radius: 10px;
+    background-color: azure;
+    cursor: pointer;
+}
+
+body {
+    background-color: #000;
+}
+
+label {
+    color: #ffff;
+    cursor: pointer;
+}

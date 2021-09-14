@@ -1,0 +1,9 @@
+.divSpinner {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.spinning {
+    animation: spinner 1s linear;
+}
